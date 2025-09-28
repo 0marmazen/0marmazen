@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi, I'm Omar Mazen 👋</h1>
 
 ###
 
@@ -50,17 +50,11 @@
 ###
 
 
-Red team Trainee |Penetration Testing | Always learning and building 🚀
-
-# Hi, I'm Omar Mazen 👋
+##Red team Trainee |Penetration Testing | Always learning and building 🚀
 🎓 Computer Engineer | red team Trainee  
 🔍 Interested in Penetration Testing, and Network Offensive
 📚 Security+ |  | Google Cybersecurity Certificate  
 🛠️ Learning everyday, building practical skills in Offensive Security
-<!--
-## 💻 Projects:
-- Security+ Notes
-- Pentesting Labs -->
 
 ## 🚀 Edu:
 - CompTIA A+
