@@ -1,4 +1,4 @@
-Cybersecurity Trainee |Penetration Testing | Always learning and building 🚀
+Red team Trainee |Penetration Testing | Always learning and building 🚀
 
 # Hi, I'm Omar Mazen 👋
 🎓 Computer Engineer | red team Trainee  
