@@ -51,14 +51,7 @@
 
 ###
 
-
-##Red team Trainee |Penetration Testing | Always learning and building 🚀
-🎓 Computer Engineer | red team Trainee  
-🔍 Interested in Penetration Testing, and Network Offensive
-📚 Security+ |  | Google Cybersecurity Certificate  
-🛠️ Learning everyday, building practical skills in Offensive Security
-
-## 🚀 Edu:
+## 🚀 Learning, practical :
 - CompTIA A+
 - CompTIA linux+
 - CompTIA Network+
