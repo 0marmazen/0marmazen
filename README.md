@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Omar Mazen 👋</h1>
-<h1 align="center"> Computer Engineer | red team Trainee |Penetration tester | Always learning and building 🚀 🎓  </h1>
+<h1 align="center"> Computer Engineer | red team Trainee | Penetration tester | Always learning and building 🚀 🎓  </h1>
 
 
 ###
