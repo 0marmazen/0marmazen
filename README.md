@@ -61,6 +61,14 @@
 - Certified Ethical Hacker 
 - Google Cybersecurity Certificate  
 - TryHackMe & Hack The Box Labs
+  
+## 🎓 Certifications :
+- Google Cybersecurity Certificate
+- CEH – Certified Ethical Hacker
+- OSCP – Offensive Security Certified Professional
+- RH124 – Red Hat System Administration I
+- Certificate of Acknowledgement – InnoEgypt Program
+
 
 ## 📫 Contact me:
 - Email: omar.mazen.work@gmail.com
