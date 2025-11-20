@@ -63,6 +63,7 @@
 - TryHackMe & Hack The Box Labs
   
 ## 🎓 Certifications :
+- CompTIA Network+ Certification 
 - Google Cybersecurity Certificate
 - CEH – Certified Ethical Hacker
 - OSCP – Offensive Security Certified Professional
