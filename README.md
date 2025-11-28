@@ -51,17 +51,6 @@
 -------->
 ###
 
-
-## 🚀 Learning, practical :
-- CompTIA A+
-- CompTIA linux+
-- CompTIA Network+
-- CompTIA Security+ <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRmNGk3Z3J2c2Rvbm11bDh1MWF4eHBtdm80NHVqMmJ0bzJqZ3M3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7jCRzDW5TH7vsIbYD/giphy.gif"  />
-- Cisco Certified Network Associate
-- Certified Ethical Hacker 
-- Google Cybersecurity Certificate  
-- TryHackMe & Hack The Box Labs
-  
 ## 🎓 Certifications :
 - CompTIA Network+ Certification 
 - Google Cybersecurity Certificate
@@ -69,6 +58,19 @@
 - OSCP – Offensive Security Certified Professional
 - RH124 – Red Hat System Administration I
 - Certificate of Acknowledgement – InnoEgypt Program
+
+## 🚀 Learning, practical :
+- CompTIA A+
+- CompTIA linux+
+- CompTIA Network+
+- CompTIA Security+ <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRmNGk3Z3J2c2Rvbm11bDh1MWF4eHBtdm80NHVqMmJ0bzJqZ3M3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7jCRzDW5TH7vsIbYD/giphy.gif"  />
+- Cisco Certified Network Associate
+- Google Cybersecurity Certificate
+- CEH – Certified Ethical Hacker
+- OSCP – Offensive Security Certified Professional
+- RH124 – Red Hat System Administration I
+- TryHackMe & Hack The Box Labs
+  
 
 
 ## 📫 Contact me:
