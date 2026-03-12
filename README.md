@@ -52,16 +52,15 @@
 ###
 
 ## 🎓 Certifications :
-- CompTIA Network+ Certification 
-- Google Cybersecurity Certificate
-- CEH – Certified Ethical Hacker
-- OSCP – Offensive Security Certified Professional
-- RH124 – Red Hat System Administration I
+- CompTIA Network+ Certification - Packt/Coursera 
+- Google Cybersecurity Certificate - Google/Coursera 
+- CEH – Certified Ethical Hacker - Teaching Planet Academy
+- OSCP – Offensive Security Certified Professional -Teaching Planet Academy
+- RH124 – Red Hat System Administration I  - ITI
 - Certificate of Acknowledgement – InnoEgypt Program
 
 ## 🚀 Learning, practical :
 - CompTIA A+
-- CompTIA linux+
 - CompTIA Network+
 - CompTIA Security+ <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRmNGk3Z3J2c2Rvbm11bDh1MWF4eHBtdm80NHVqMmJ0bzJqZ3M3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7jCRzDW5TH7vsIbYD/giphy.gif"  />
 - Cisco Certified Network Associate
