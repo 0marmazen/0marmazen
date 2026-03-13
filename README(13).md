@@ -75,7 +75,7 @@ $ cat about.txt
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| 🔴 **RedOpsCenter** | Automated network & Wi-Fi security assessment platform with AI-powered reporting and remote device control | Python · AI | 🚧  In  --  🚧Progress |
+| 🔴 **RedOpsCenter** | Automated network & Wi-Fi security assessment platform with AI-powered reporting and remote device control | Python · AI | 🚧  In  -- -- 🚧Progress |
 | 📡 **[Network Assessment Tool](https://github.com/0marmazen/Projects/tree/main/Network-assessment-tool)** | Pocket-sized Raspberry Pi pentesting device — dual-band packet injection, monitor mode, SSH remote access | Kali · Bash | ✅ Complete |
 | ☁️ **AWS Cloud Lab** | Secure cloud architecture using EC2, VPC, IAM, S3 with real-world security hardening | AWS |🚧In Progress🚧|
 | 🎯 **CTF Writeups** — [RootMe](https://github.com/0marmazen/Projects/blob/main/CTF%20Writeups/RootMe%20Writeup.md) · [Mr.Robot](https://github.com/0marmazen/Projects/blob/main/CTF%20Writeups/Mr.Robot%20Writeup.md) | 30+ HackTheBox & TryHackMe machines — recon, exploitation, post-exploitation methodology | Markdown | ✅ Active |
