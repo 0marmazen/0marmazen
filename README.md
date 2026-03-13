@@ -1,5 +1,5 @@
 
-# Omar Mazen 👋
+# Omar Mazen 
 **Cloud & Security Engineer | Aspiring Platform / Infrastructure Engineer**  
 Cairo, Egypt | 01070400489 | omar.mazen.work@gmail.com | [LinkedIn](https://www.linkedin.com/in/omarmazen)
 
@@ -22,7 +22,7 @@ Cairo, Egypt | 01070400489 | omar.mazen.work@gmail.com | [LinkedIn](https://www.
 
 
 
-## 🎯 Professional Summary
+##  Professional Summary
 Senior Computer Engineering student (Graduating 2026) with hands-on experience in **cloud infrastructure (AWS), cybersecurity, penetration testing, and systems administration**.  
 Holds industry-recognised certifications including **OSCP** and **CEH**.  
 Eager to contribute technical skills in a collaborative environment at **PwC ETIC**, focusing on cloud and security projects.
@@ -54,7 +54,7 @@ Eager to contribute technical skills in a collaborative environment at **PwC ETI
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 - **OSCP** – Offensive Security Certified Professional (Teaching Planet Academy)  
 - **CEH** – Certified Ethical Hacker (Teaching Planet Academy)  
 - **CompTIA Network+** – Packt / Coursera  
@@ -66,7 +66,7 @@ Eager to contribute technical skills in a collaborative environment at **PwC ETI
 
 ---
 
-## 🚀 Technical Skills
+##  Technical Skills
 - **Cloud:** AWS (EC2, VPC, IAM, S3) – architecture & security fundamentals  
 - **Security:** Penetration Testing, OWASP Top 10, SQLi, XSS, Auth Bypass, Burp Suite, Metasploit  
 - **Networking:** TCP/IP, Subnetting, VLANs, Wireshark, Router Config  
@@ -77,12 +77,12 @@ Eager to contribute technical skills in a collaborative environment at **PwC ETI
 
 ---
 
-## 🧠 Soft Skills
+##  Soft Skills
 Communication • Team Collaboration • Research & Analysis • Problem-Solving • Adaptability • Leadership • Eagerness to Learn
 
 ---
 
-## 📫 Contact
+##  Contact
 - Email: omar.mazen.work@gmail.com  
 - LinkedIn: [OmarMazen](https://www.linkedin.com/in/omarmazen)  
 
