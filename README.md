@@ -1,27 +1,10 @@
-<h1 align="center">Hi, I'm Omar Mazen 👋</h1>
-<h1 align="center"> Computer Engineer | red team Trainee | Penetration tester | Always learning and building 🚀 🎓  </h1>
 
-###
-<!-------
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
--------->
-###
+# Omar Mazen 👋
+**Cloud & Security Engineer | Aspiring Platform / Infrastructure Engineer**  
+Cairo, Egypt | 01070400489 | omar.mazen.work@gmail.com | [LinkedIn](https://www.linkedin.com/in/omarmazen)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0marmazen/0marmazen/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0marmazen/0marmazen/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0marmazen/0marmazen/output/pacman-contribution-graph.svg">
-</picture>
+---
+
 
 ###
 
@@ -29,64 +12,84 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=0marmazen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
  
-<!--
-   <img src="https://github-profile-trophy.vercel.app?username=0marmazen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0marmazen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
--->
 <img src="https://github-readme-stats.vercel.app/api?username=0marmazen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
 </div>
 
 
-###
-<!-------
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="52" height="40" alt="matrix logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
--------->
-###
-
-## 🎓 Certifications :
-- CompTIA Network+ Certification - Packt/Coursera 
-- Google Cybersecurity Certificate - Google/Coursera 
-- CEH – Certified Ethical Hacker - Teaching Planet Academy
-- OSCP – Offensive Security Certified Professional -Teaching Planet Academy
-- RH124 – Red Hat System Administration I  - ITI
-- Certificate of Acknowledgement – InnoEgypt Program
-
-## 🚀 Learning, practical :
-- CompTIA A+
-- CompTIA Network+
-- CompTIA Security+ <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRmNGk3Z3J2c2Rvbm11bDh1MWF4eHBtdm80NHVqMmJ0bzJqZ3M3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7jCRzDW5TH7vsIbYD/giphy.gif"  />
-- Cisco Certified Network Associate
-- Google Cybersecurity Certificate
-- CEH – Certified Ethical Hacker
-- OSCP – Offensive Security Certified Professional
-- RH124 – Red Hat System Administration I
-- TryHackMe & Hack The Box Labs
-  
 
 
-## 📫 Contact me:
-- Email: omar.mazen.work@gmail.com
-- LinkedIn: OmarMazen
-
-<!--
-lomarsalahl/lomarsalahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
 
--->
-###
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=0marmazen.0marmazen&"  />
-</div>
+## 🎯 Professional Summary
+Senior Computer Engineering student (Graduating 2026) with hands-on experience in **cloud infrastructure (AWS), cybersecurity, penetration testing, and systems administration**.  
+Holds industry-recognised certifications including **OSCP** and **CEH**.  
+Eager to contribute technical skills in a collaborative environment at **PwC ETIC**, focusing on cloud and security projects.
+
+---
+
+## 🛠 Projects & Labs
+
+### **RedOpsCenter (Graduation Project)** – In Progress
+- Automated network and Wi-Fi security assessment platform  
+- AI-powered reporting for client-ready documentation  
+- Remote device control capabilities  
+- [Link Coming Soon]
+
+### **AWS Cloud Project** – In Progress
+- Cloud-based solution using EC2, VPC, IAM, S3  
+- Applying security best practices from internship experience  
+- [Link Coming Soon]
+
+### **Network Assessment Tool**
+- Portable penetration testing device (Raspberry Pi + Kali Linux)  
+- Mobile network assessments, packet injection, remote attacks via SSH  
+- [GitHub Repo / Demo Coming Soon]
+
+### **Penetration Testing Labs** – TryHackMe & HackTheBox
+- Completed 30+ machines applying structured pentesting methodology  
+- Reconnaissance, exploitation, post-exploitation, and reporting  
+- Writeups maintained in private repos for demonstration
+
+---
+
+## 🎓 Certifications
+- **OSCP** – Offensive Security Certified Professional (Teaching Planet Academy)  
+- **CEH** – Certified Ethical Hacker (Teaching Planet Academy)  
+- **CompTIA Network+** – Packt / Coursera  
+- **Google Cybersecurity Certificate** – Google / Coursera  
+- **RH124** – Red Hat System Administration I (ITI)  
+- Certificate of Acknowledgement – InnoEgypt Program  
+
+*In Progress:* CompTIA Security+, CCNA (Expected 2025)
+
+---
+
+## 🚀 Technical Skills
+- **Cloud:** AWS (EC2, VPC, IAM, S3) – architecture & security fundamentals  
+- **Security:** Penetration Testing, OWASP Top 10, SQLi, XSS, Auth Bypass, Burp Suite, Metasploit  
+- **Networking:** TCP/IP, Subnetting, VLANs, Wireshark, Router Config  
+- **Systems:** Linux (Red Hat / RHCSA), Windows, Active Directory (basic)  
+- **Programming:** Python, Bash, C++, Java, SQL  
+- **CS Fundamentals:** Data Structures, Algorithms, OOP  
+- **Tools:** Nmap, Gobuster, John the Ripper, Hashcat  
+
+---
+
+## 🧠 Soft Skills
+Communication • Team Collaboration • Research & Analysis • Problem-Solving • Adaptability • Leadership • Eagerness to Learn
+
+---
+
+## 📫 Contact
+- Email: omar.mazen.work@gmail.com  
+- LinkedIn: [OmarMazen](https://www.linkedin.com/in/omarmazen)  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0marmazen&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub stats"/>
+</p>
 
 ###
