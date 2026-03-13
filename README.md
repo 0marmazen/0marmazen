@@ -29,7 +29,7 @@ Eager to contribute technical skills in a collaborative environment at **PwC ETI
 
 ---
 
-## 🛠 Projects & Labs
+##  Projects & Labs
 
 ### **RedOpsCenter (Graduation Project)** – In Progress
 - Automated network and Wi-Fi security assessment platform  
