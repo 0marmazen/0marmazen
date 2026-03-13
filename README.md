@@ -86,10 +86,4 @@ Communication • Team Collaboration • Research & Analysis • Problem-Solving
 - Email: omar.mazen.work@gmail.com  
 - LinkedIn: [OmarMazen](https://www.linkedin.com/in/omarmazen)  
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0marmazen&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub stats"/>
-</p>
-
-###
