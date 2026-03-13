@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Omar+Mazen+%F0%9F%91%8B;Cloud+%26+Security+Engineer;Penetration+Tester+%7C+Ethical+Hacker;Breaking+things+ethically+%F0%9F%94%B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Omar+Mazen+%F0%9F%91%8B;Cloud+%26+Security+Engineer+%E2%98%81%EF%B8%8F%F0%9F%94%90;Penetration+Tester+%7C+Ethical+Hacker;Cloud+engineering+with+a+security+mindset;Breaking+things+ethically+%F0%9F%94%B4)](https://git.io/typing-svg)
 
 <br/>
 
