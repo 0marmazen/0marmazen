@@ -20,7 +20,7 @@ $ whoami
   Omar Mazen — Cloud & Security Engineer · Cairo, Egypt 🇪🇬
 
 $ cat about.txt
-  🎓 Senior CS Student · Graduating 2026
+  🎓 Senior CS Student · Graduat 2026
   🎯 Focus: Penetration Testing · Cloud · Infrastructure
   🔴 30+ HackTheBox & TryHackMe machines completed
   🚀 Currently building: RedOpsCenter (Graduation Project)
