@@ -23,7 +23,7 @@ $ cat about.txt
   🎯 Focus: Penetration Testing · Cloud · Infrastructure
   🔴 30+ HackTheBox & TryHackMe machines completed
   🚀 Currently building: RedOpsCenter (Graduation Project)
-  📖 Studying: CompTIA Security+ · CCNA
+
 ```
 
 ---
